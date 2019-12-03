@@ -15,7 +15,7 @@ public class Ex1 {
         Scanner sc = new Scanner(System.in);
         int i;
         int pos = 0, neg = 0; //contadores de los números positivos y negativos
-        int[] numeros = new int[10]; //array que contendrá los números leídos por teclado
+        int[] numeros = new int[10]; //declaracion y el numero de valores que contendra
         double sumaPos = 0, sumaNeg = 0; //acumuladores para las sumas de positivos y negativos
         
         //lectura de datos y llenar el array
